@@ -1,4 +1,4 @@
-#Readme
+Readme
 
 This program takes in a CSV file, cleans the IP adresses, and then runs a GeoIp2 locater on the adresses to determine from where they came.
 
