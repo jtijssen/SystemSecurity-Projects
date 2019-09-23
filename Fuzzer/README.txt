@@ -17,5 +17,3 @@ The Fuzzer Tool:
 
 All the aspects of the works have succesfully been implemented, including loading
 in the fuzzing lists of Daniel Miessler and being able to test any page.
-I asked questions on piazza to complete this lab. I spent around 4 hours on this
-assignment. 
